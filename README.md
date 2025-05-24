@@ -1,4 +1,4 @@
-# Hi there, I’m Muhammad! 👋
+# Hi there, I’m Muhammad Hammad! 👋
 I’m currently a 4th semester Computer Science student at [Sir Syed University of Engineering and Technology](https://www.ssuet.edu.pk/), passionate about building things for the web and exploring new technologies.
 
 ## 🚀 About Me
